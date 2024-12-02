@@ -5,4 +5,9 @@ I believe the continuous learning and start from simple but bold. I love technol
 
 Skills: Python / Java / VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on the research study at my graduate school. 
+- 🔭 I’m currently working on my research study at my graduate school 
+- 🌱 I’m currently learning blockchain, distributed system, machine learning, and relevant programming languages 
+- ⚡ Fun fact: Walk the talk but easily panic 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/veyseng)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/veyseng-choeng/)  
+
